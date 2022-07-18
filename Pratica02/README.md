@@ -1,6 +1,6 @@
 <h2> UNIVERSIDADE FEDERAL DO CEARÁ – UFC SOBRAL<br>
-TÉCNICAS DE PROGRAMAÇÃO 
-AULA PRÁTICA: 1 - JAVA </h2>
+TÉCNICAS DE PROGRAMAÇÃO <br>
+AULA PRÁTICA: 2 - JAVA </h2>
 
 EXERCÍCIO PRÁTICO - 1)
 Faça um programa que solicite ao usuário um valor de 3 a 90, agora denominado 𝑋. Em seguida, 
